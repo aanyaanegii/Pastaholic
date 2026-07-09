@@ -1,5 +1,5 @@
+![Pastaholic Banner](Screenshot(33)(1).png)
 # Pastaholic 🍝
-
 A beautifully designed pasta restaurant website created using HTML and CSS.
 
 ## 📌 About the Project

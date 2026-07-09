@@ -1,4 +1,6 @@
-![Pastaholic Banner](Screenshot(33)(1).png)
+## 📸 Preview
+
+![Pastaholic Website Preview](pastaholic-preview.png)
 # Pastaholic 🍝
 A beautifully designed pasta restaurant website created using HTML and CSS.
 

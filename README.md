@@ -36,7 +36,7 @@ You may not copy, modify, or distribute this project without permission.
 
 ## 👩‍💻 Author
 
-**Aanya Negi**
+**Aanya**
 
 ## 📂 Project Structure
 Pastaholic/

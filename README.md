@@ -3,7 +3,6 @@
 ![Pastaholic Website Preview](pastaholic-preview.png)
 ![Pastaholic Website Preview](preview.png)
 ![Pastaholic Website Preview](preview2.png)
-![Pastaholic Website Preview](preview4.png)
 
 
 # Pastaholic 🍝
